@@ -1,0 +1,3 @@
+PyMuPDF==1.23.19
+INPUT_DIR = r"C:\Users\sisod\Desktop\adobe\p1\input"
+OUTPUT_DIR = r"C:\Users\sisod\Desktop\adobe\p1\output"
